@@ -75,7 +75,7 @@
 <h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiNithin832&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiNithin832&theme=dracula" />
 </p>
 
 ---
