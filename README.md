@@ -20,18 +20,16 @@
 
 ---
 <h3 align="center">
-    Aspiring Software Developer | Java Full-Stack Developer | Java Developer | Front End Developer | Back End Developer
+    Aspiring Software Developer | Java Full-Stack Developer | Java Developer | Front End Developer | Back End Developer | Software testing
 </h3>
 
 ---
 <p align="center">
-A passionate and motivated software developer with strong foundations in full-stack development, 
-backend engineering, and problem-solving. I enjoy building real-world, scalable applications and 
-continuously improving my skills to align with modern industry standards.
+“A passionate and driven software developer with a solid foundation in full-stack development, backend engineering, and analytical problem-solving. I focus on building scalable, real-world applications while continuously upgrading my skills to meet evolving industry standards.”
 </p>
 
 ---
-<h3 align="center">🚀 "Code is not just lines of logic, it's creativity turned into reality."</h3>
+<h3 align="center">🚀“Programming is where creativity meets problem-solving.”</h3>
 
 ---
 <h2 align="center"> 🚀 Most Used Technologies </h2>
@@ -54,19 +52,19 @@ continuously improving my skills to align with modern industry standards.
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/peetla-mahesh-372438253" target="_blank">
+  <a href="https://www.linkedin.com/in/sainithinputta/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
-  <a href="mailto:peetlamahesh81@gmail.com">
+  <a href="mailto:sainithin832@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 
-  <a href="https://peetlamahesh123.github.io/myPortfolio/" target="_blank">
+  <a href="https://sainithin832.github.io/Portfolio-Website/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" height="40" />
   </a>
 
-  <a href="tel:+919182353829">
+  <a href="tel:+919849454380">
     <img src="https://img.icons8.com/color/48/phone.png" height="40" />
   </a>
 
