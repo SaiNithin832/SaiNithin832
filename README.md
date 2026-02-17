@@ -68,10 +68,6 @@
     <img src="https://img.icons8.com/color/48/phone.png" height="40" />
   </a>
 
-  <a href="https://leetcode.com/u/mahesh21cs042/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
-  </a>
-
 </div>
 
 ---
@@ -79,7 +75,7 @@
 <h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeetlaMahesh123&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiNithin832&theme=vision-friendly-dark" />
 </p>
 
 ---
