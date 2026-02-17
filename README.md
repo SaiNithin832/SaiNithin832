@@ -75,7 +75,7 @@
 <h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiNithin832/&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiNithin832&theme=vision-friendly-dark" />
 </p>
 
 ---
@@ -83,20 +83,14 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeetlaMahesh123&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeetlaMahesh123&theme=gruvbox" width="49%"/>
-</p>
-
----
-<h2 align="center"> 🧠 LeetCode Stats </h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mahesh21cs042?theme=dark&font=Karma&ext=contest" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithin832&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithin832&theme=gruvbox" width="49%"/>
 </p>
 
 ---
 <h2 align="center">🏆 Highlights</h2>
 
-- 💻 100+ LeetCode Problems Solved  
+- 💻 7+ Frontend Projects Completed 
 - 🚀 5+ Backend Projects Built  
 - 📦 10+ REST APIs Developed  
 - 🧠 Strong DSA & OOP Knowledge  
@@ -105,7 +99,7 @@
 ## 📈 Activity & Radar Chart
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeetlaMahesh123&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiNithin832&theme=tokyonight" />
 </p>
 
 ---
@@ -113,8 +107,8 @@
 ## 🥧 Languages & Contributions Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PeetlaMahesh123&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeetlaMahesh123&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiNithin832&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiNithin832&theme=github_dark" />
 </p>
 
 ---
@@ -346,41 +340,29 @@
 ---
 ## 📌 Projects
 
-### 🎓 React Todo List Application (React.js)
+💰 Money Management System (Full-Stack Web Application)
 
-• Built a responsive task management application using React  
-• Implemented add, edit, delete, and mark-as-complete features  
-• Used React Hooks (useState, useEffect) for state management  
-• Integrated Local Storage for persistent data storage  
+• Developed a full-stack money management application to track income, expenses, and savings
+• Implemented features to add, categorize, update, and manage financial transactions
+• Designed backend logic for secure data storage, retrieval, and updates
+• Enabled users to analyze spending patterns through organized expense records
+• Focused on real-world financial management and usability
 
-### 🛒 Shop Management System (Hibernate)
-• Admin-only authentication using enum-based role management  
-• Implemented secure CRUD operations  
-• Prevented unauthorized access  
+🌐 Personal Portfolio Website (HTML, CSS, JavaScript)
 
-### 📝 Online Quiz Application (HTML, CSS, JavaScript)
+• Designed and developed a personal portfolio website to showcase skills, projects, and experience
+• Built a fully responsive user interface compatible with multiple devices and screen sizes
+• Used HTML and CSS for structured layout and modern design
+• Implemented JavaScript to add interactivity and enhance user experience
+• Created a centralized platform for professional branding and contact information
 
-• Built an interactive quiz platform using pure frontend technologies  
-• Implemented dynamic question rendering and answer validation logic  
-• Developed score tracking system with performance summary  
-• Integrated countdown timer for enhanced user experience  
-• Designed clean and responsive UI layout  
+🎬 Movie Management System (Movie Ticket Booking Application)
 
-### 🎓 Student Management System (JDBC)
-• Built CRUD operations for student records  
-• Used JDBC for database connectivity  
-
-### 🎮 Guess Word Game (HTML, CSS, JavaScript)
-
-• Developed an interactive word guessing game using pure frontend technologies  
-• Implemented random word generation and input validation logic  
-• Provided real-time feedback for correct and incorrect guesses  
-• Added attempt limits and win/lose condition handling  
-• Designed responsive and engaging user interface  
-
-### 🏥 Hospital Management System (JDBC)
-• Managed patients, doctors, and appointments  
-• Designed relational database tables  
+• Developed a movie management and ticket booking web application simulating real-world workflows
+• Implemented movie browsing, show details display, and ticket booking functionality
+• Designed organized movie listings with smooth and intuitive navigation
+• Focused on user-friendly interface for seamless booking experience
+• Simulated end-to-end movie ticket booking process
 
 ---
 
@@ -395,7 +377,7 @@
     <td>
       <b>Akshaya College of Engineering and Technology</b><br>
       2021 – 2025<br>
-      🎯 CGPA: <b>8.24 / 10</b>
+      🎯 CGPA: <b>7.90 / 10</b>
     </td>
   </tr>
 
@@ -405,9 +387,9 @@
       <sub><b>Intermediate (HSC)</b></sub>
     </td>
     <td>
-      <b>Sri Krishna Reddy Siddhartha Junior College</b><br>
+      <b>Sri chaitanya Junior College</b><br>
       2019 – 2021<br>
-      📊 Percentage: <b>94.8%</b>
+      📊 Percentage: <b>80.0%</b>
     </td>
   </tr>
 
@@ -417,24 +399,13 @@
       <sub><b>Secondary (SSC)</b></sub>
     </td>
     <td>
-      <b>Zilla Parishad High School</b><br>
+      <b>Kakathiya High School</b><br>
       2018 – 2019<br>
-      🎯 CGPA: <b>9.8 / 10</b>
+      🎯 CGPA: <b>9.7 / 10</b>
     </td>
   </tr>
 </table>
  
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🏅 Dr. Kalam Young Achiever Award  
-- 💼 JPMorgan Chase Job Simulation  
-- 🌐 Cisco Network Essentials  
-- 🤖 AI Tools & ChatGPT Workshop  
-- ☁️ MongoDB Atlas  
-- ⚙️ UiPath Automation  
 
 ---
 
@@ -446,15 +417,15 @@
 
 ---
 ## 📞 Contact Me
-    Phone : +91 9182353829
-    email: peetlamahesh81@gmail.com
- Address: 11-106C-1, B. Kotha Vaddi Palli, Balaiahgari Palli, Kalakada, Annamaiah(D) Tirupati, Andhra Pradesh, India Pincode- (517236).
+    Phone : +91 9849454380
+    email: sainithin832@gmail.com
+ Address: 2-1537/1-2, Sankarapuram, Pileru, Annamaiah(D) , Andhra Pradesh, India Pincode- (517214).
 
  <table align="center">
 <tr>
 <td align="center">
-<a href="https://www.google.com/maps/search/?api=1&query=11-106C-1,+B.+Kotha+Vaddi+Palli,+Balaiahgari+Palli,+Kalakada,+Annamaiah,+Tirupati,+Andhra+Pradesh,+517236" target="_blank">
+<a href="https://www.google.com/maps/search/?api=1&query=2-1537/1-2,+Sankarapuram,+Pileru,+Annamaiah(D),+Andhra+Pradesh,+India,+517214" target="_blank">
   <img src="https://img.icons8.com/fluency/48/navigation.png" width="50"/>
 </a><br>
-<sub><b>Tirupati, Andhra Pradesh, India</b></sub>
+<sub><b>Pileru, Andhra Pradesh, India</b></sub>
 
