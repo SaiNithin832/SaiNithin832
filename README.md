@@ -3,7 +3,7 @@
 </h1>
 <!-- 🔥 Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver+on+LeetCode;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB86C&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver+on+LeetCode;Open+Source+Learner" />
 </p>
 
 ---
