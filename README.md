@@ -1,5 +1,5 @@
 <h1 align="center">
-    𝓗𝓲 👋, 𝓘'𝓶 𝓟𝓮𝓮𝓽𝓵𝓪 𝓜𝓪𝓱𝓮𝓼h
+    𝓗𝓲 👋, 𝓘'𝓶 𝓟utta SaiNithin..
 </h1>
 <!-- 🔥 Animated Typing -->
 <p align="center">
@@ -11,11 +11,11 @@
 <h2 align="center"> 💡 My Profile Views </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeetlaMahesh123&label=Profile%20views&color=8A2BE2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SaiNithin832&label=Profile%20views&color=8A2BE2&style=flat" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/PeetlaMahesh123?label=Followers&style=for-the-badge&color=1E90FF" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/PeetlaMahesh123&style=for-the-badge&color=28A745" />
+  <img src="https://img.shields.io/github/followers/SaiNithin832?label=Followers&style=for-the-badge&color=1E90FF" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/SaiNithin832&style=for-the-badge&color=28A745" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ continuously improving my skills to align with modern industry standards.
 
 ---
 
-<h2 align="center"> 🔥 Contribution Graph </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeetlaMahesh123&theme=chartreuse-dark" /> </p>
+<h2 align="center"> 🔥 Contribution Graph </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiNithin832&theme=chartreuse-dark" /> </p>
 
 ---
 
@@ -50,7 +50,7 @@ continuously improving my skills to align with modern industry standards.
 
 <div align="center">
 
-  <a href="https://github.com/PeetlaMahesh123" target="_blank">
+  <a href="https://github.com/SaiNithin832" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 
