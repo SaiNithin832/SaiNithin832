@@ -309,7 +309,7 @@
 <img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="24" height="24"/>/><br><sub><b>Swagger</b></sub>
+<img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" width="24" height="24"/><br><sub><b>Swagger</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=selenium" width="50"/><br><sub><b>Selenium</b></sub>
