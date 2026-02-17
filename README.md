@@ -83,8 +83,9 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithin832&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithin832&theme=gruvbox" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiNithin832&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiNithin832&theme=nightowl" width="49%"/>
+
 </p>
 
 ---
