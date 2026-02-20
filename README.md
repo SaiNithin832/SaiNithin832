@@ -115,11 +115,11 @@
 ---
 ## 🚀 About Me
 
-- 🎓 B.E. in Computer Science and Engineering  
-- 💻 Interested in Full-Stack Development & Backend Engineering  
-- 🌱 Continuously learning and building real-world projects  
-- 🧠 Strong understanding of core computer science concepts  
-- 🎯 Focused on writing clean, efficient, and maintainable code  
+- 🎓 B.E. in Computer Science and Engineering.
+- 💻 Interested in Full-Stack Development & Backend Engineering. 
+- 🌱 Continuously learning and building real-world projects.
+- 🧠 Strong understanding of core computer science concepts. 
+- 🎯 Focused on writing clean, efficient, and maintainable code. 
 
 ---
 
