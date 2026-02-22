@@ -1,7 +1,8 @@
-<h1 align="center">⚡ Nithin Sai ⚡</h1>
+<h1 align="center">Nithin Sai</h1>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Spring+Boot+Backend+Developer;React+Frontend+Builder;DSA+Problem+Solver;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Backend+Focused+Developer;Clean+Code+Advocate;Building+REST+APIs;Open+Source+Learner" />
 </p>
 
 <p align="center">
