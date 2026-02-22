@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nithin Sai</h1>
+<h1 align="center">⚡ Nithin Sai ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Specialist;Problem+Solver;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Spring+Boot+Backend+Developer;React+Frontend+Builder;DSA+Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
