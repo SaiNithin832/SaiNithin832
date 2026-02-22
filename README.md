@@ -35,7 +35,7 @@
 <h2 align="center"> 🚀 Most Used Technologies </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,mongodb,manual testing,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,mongodb,manual testing,git,github,docker,vscode,eclipse" />
 </p>
 
 ---
