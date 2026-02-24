@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sai Nithin</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Putta%20SaiNithin%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Specialist;Problem+Solver;Building+Scalable+Applications" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
