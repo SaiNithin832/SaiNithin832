@@ -7,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
-</p>
-
 ---
 <!-- 👁 Profile Views -->
 <h2 align="center"> 💡 My Profile Views </h2>
